@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{2EB10867-AF61-4C5E-A620-EC5DC3B956D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{2EB10867-AF61-4C5E-A620-EC5DC3B956D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassOdev", "ClassOdev\ClassOdev.csproj", "{04960848-9B2A-41C0-A2D9-9FD96B5E48E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{5812C792-EACC-40B9-AB83-1725FF03BF6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{2EB10867-AF61-4C5E-A620-EC5DC3B956D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB10867-AF61-4C5E-A620-EC5DC3B956D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB10867-AF61-4C5E-A620-EC5DC3B956D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04960848-9B2A-41C0-A2D9-9FD96B5E48E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04960848-9B2A-41C0-A2D9-9FD96B5E48E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04960848-9B2A-41C0-A2D9-9FD96B5E48E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04960848-9B2A-41C0-A2D9-9FD96B5E48E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5812C792-EACC-40B9-AB83-1725FF03BF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5812C792-EACC-40B9-AB83-1725FF03BF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5812C792-EACC-40B9-AB83-1725FF03BF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5812C792-EACC-40B9-AB83-1725FF03BF6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
